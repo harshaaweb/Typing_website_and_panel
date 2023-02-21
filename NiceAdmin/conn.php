@@ -1,5 +1,5 @@
 <?php
-    $conn = mysqli_connect("localhost", "root", "", "harshaweb");
+    $conn = mysqli_connect("localhost", "root", "", "harsha_typing");
     // if($conn){
     //     echo "Connected";
     // }

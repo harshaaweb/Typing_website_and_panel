@@ -48,7 +48,7 @@ if (isset($_SESSION['newEmail'])) {
 
 
         <div class="logo" style="font-size: 23px;">
-            <a href="#" style="font-size: 23px;  font-family: serif; text-transform: lowercase; "><em>Jyoti</em>
+            <a href="./index.php" style="font-size: 23px;"><em>Jyoti</em>
                 <pm style="color:#f5a425">Institute</pm>
             </a>
         </div>
