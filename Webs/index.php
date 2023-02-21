@@ -1,5 +1,5 @@
 <?php
-include('./dbconfig.php');
+include(__DIR__ . '/dbconfig.php');
 $select = "select * from users";
 $query = mysqli_query($conn, $select);
 $data = mysqli_fetch_assoc($query);

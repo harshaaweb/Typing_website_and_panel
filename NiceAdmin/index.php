@@ -1,5 +1,5 @@
 <?php
-include('conn.php');
+include(__DIR__ . '/conn.php');
 session_start();
 if (!isset($_SESSION['data'])) {
   header('location:login.php');
