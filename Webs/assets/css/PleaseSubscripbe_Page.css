@@ -1,0 +1,35 @@
+.mainCnrt {
+  padding: 40px;
+}
+.emptyCont {
+  padding: 60px;
+  align-items: center;
+  text-align: center;
+}
+.imgcontempt {
+  width: 50%;
+  margin: auto;
+}
+.emtyImg {
+  width: 80%;
+}
+.cardtext {
+  background-color: #efa423;
+  width: 80%;
+  margin: auto;
+}
+.emptytxt {
+  padding: 30px;
+  font-size: 20px;
+  font-weight: normal;
+}
+.linkspan {
+  font-weight: bold;
+  cursor: pointer;
+  text-decoration: none;
+  color: #162339;
+}
+.linkspan:hover {
+  border-bottom: 2px solid red;
+  color: #162339;
+}
