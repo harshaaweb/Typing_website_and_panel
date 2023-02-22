@@ -632,7 +632,7 @@ if (isset($_SESSION['newEmail'])) {
                 <div class="col-md-12" style="text-align: center ">
 
                     <div>
-                        <img src="./assets/images/vs.jpg" alt="Visiting_Card" srcset="">
+                        <img src="./assets/images/t_logo.jpg" alt="Visiting_Card" srcset="" style="width:250px;height:250px;">
                     </div>
 
                 </div>
