@@ -112,6 +112,8 @@ if (isset($_SESSION['newEmail'])) {
                 <h2 style="margin:5px;"><em>Jyoti</em> Institute</h2>
                 <h6>
                     Specialisation in typing & shorthand </h6>
+                <h6 style="margin-top: 15px;">
+                     +91 99 99 918 919  </h6>
                 <div class="main-button" style="margin-top:30px;">
                     <a href="./typing.php">
                         <div class="scroll-to-section">Get
