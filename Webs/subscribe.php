@@ -56,7 +56,7 @@
                              <h3 class="block text-sm uppercase tracking-widest text-white mb-2 font-medium">
                                  Starter</h3>
                              <h2 class="text-5xl leading-none flex items-center text-white">
-                                 <span> <i class="bi bi-currency-rupee"></i>5</span>
+                                 <span> <i class="bi bi-currency-rupee"></i>100</span>
                                  <span class="text-lg ml-1 font-normal text-neutral-500">/mo</span>
                              </h2>
                          </div>
@@ -94,7 +94,7 @@
                                          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                                      </svg>
                                  </span>
-                                 <span class="text-white dark:text-neutral-300">Customizations</span>
+                                 <span class="text-white dark:text-neutral-300">2 Passages Daily</span>
                              </li>
                              <li class="flex items-center">
                                  <span class="mr-4 inline-flex flex-shrink-0 text-primary-6000">
@@ -130,7 +130,7 @@
                                  intermediate</h3>
                              <h2 class="text-5xl leading-none flex items-center text-white">
                                  <span>
-                                     <i class="bi bi-currency-rupee"></i>10
+                                     <i class="bi bi-currency-rupee"></i>1000
                                  </span>
                                  <span class="text-lg ml-1 font-normal text-neutral-500">/mo</span>
                              </h2>
@@ -167,7 +167,7 @@
                                          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                                      </svg>
                                  </span>
-                                 <span class="text-white dark:text-neutral-300">Progress Reports</span>
+                                 <span class="text-white dark:text-neutral-300"> 6 Passages Daily</span>
                              </li>
                              <li class="flex items-center">
                                  <span class="mr-4 inline-flex flex-shrink-0 text-primary-6000">
@@ -175,7 +175,7 @@
                                          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                                      </svg>
                                  </span>
-                                 <span class="text-white dark:text-neutral-300">Premium Support</span>
+                                 <span class="text-white dark:text-neutral-300">Progress Reports</span>
                              </li>
                          </nav>
                          <div class="flex flex-col mt-auto">
@@ -202,7 +202,7 @@
                                  Plus</h3>
                              <h2 class="text-5xl leading-none flex items-center text-white">
                                  <span>
-                                     <i class="bi bi-currency-rupee"></i>15
+                                     <i class="bi bi-currency-rupee"></i>1200
                                  </span>
                                  <span class="text-lg ml-1 font-normal text-neutral-500">/mo</span>
                              </h2>
@@ -236,7 +236,7 @@
                                          <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
                                      </svg>
                                  </span>
-                                 <span class="text-white dark:text-neutral-300">Advanced Analytics</span>
+                                 <span class="text-white dark:text-neutral-300">6 Passages Daily</span>
                              </li>
                              <li class="flex items-center">
                                  <span class="mr-4 inline-flex flex-shrink-0 text-primary-6000">
@@ -286,7 +286,7 @@
                     $image = $data['banner_image'];
                     ?>
 
-    
+
 
                  <div class="flex items-center justify-content-center h-[200px] w-[100%] ">
                      <!-- image tag to dsiplay image  -->

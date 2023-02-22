@@ -48,8 +48,8 @@ if (isset($_SESSION['newEmail'])) {
 
 
         <div class="logo" style="font-size: 23px;">
-            <a href="./index.php" style="font-size: 23px;"><em>Jyoti</em>
-                <pm style="color:#f5a425">Institute</pm>
+            <a href="./index.php" style="font-size: 23px;color:#f5a425 "><em style="color:#f5a425">Jyoti</em>
+                <pm style="color:#fff; font-weight: 700; ">Institute</pm>
             </a>
         </div>
         <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
@@ -68,7 +68,7 @@ if (isset($_SESSION['newEmail'])) {
 
             </ul>
             </li>
-            <li><a href="./subscribe.php">Subscribe</a></li>
+            <li><a href="./subscribe.php">Subscription</a></li>
 
             <li><a href="./userprofile.php"><i class="fa-solid fa-user"></i></a></li>
             <!-- <li><a href="#section5">Video</a></li> -->
@@ -109,9 +109,10 @@ if (isset($_SESSION['newEmail'])) {
 
         <div class="video-overlay header-text">
             <div class="caption">
-                <h6>Online School of typing</h6>
-                <h2><em>Start</em> Typing</h2>
-                <div class="main-button">
+                <h2 style="margin:5px;"><em>Jyoti</em> Institute</h2>
+                <h6>
+                    Specialisation in typing & shorthand </h6>
+                <div class="main-button" style="margin-top:30px;">
                     <a href="./typing.php">
                         <div class="scroll-to-section">Get
                             Started

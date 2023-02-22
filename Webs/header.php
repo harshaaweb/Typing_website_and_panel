@@ -47,7 +47,7 @@
 
              </ul>
              </li>
-             <li><a href="./subscribe.php">Subscribe</a></li>
+             <li><a href="./subscribe.php">Subscription</a></li>
 
              <li><a href="./userprofile.php"><i class="fa-solid fa-user"></i></a></li>
              <!-- <li><a href="#section5">Video</a></li> -->
