@@ -25,12 +25,12 @@
  <body>
      <!--header-->
      <header class="main-header clearfix" role="header">
-         <div class="logo" style="font-size: 23px;">
-             <a href="./index.php" style="font-size: 23px;"><em>Jyoti</em>
-                 <pm style="color:#f5a425">Institute</pm>
-             </a>
-
-         </div>
+         
+     <div class="logo" style="font-size: 23px;">
+            <a href="./index.php" style="font-size: 23px;color:#f5a425 ; font-weight: 700; ">JYOTI
+                <pm style="color:#fff; font-weight: 700; ">INSTITUTE</pm>
+            </a>
+        </div>
          <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
          <nav id="menu" class="main-nav" role="navigation">
              <ul class="main-menu">

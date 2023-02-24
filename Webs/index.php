@@ -48,8 +48,8 @@ if (isset($_SESSION['newEmail'])) {
 
 
         <div class="logo" style="font-size: 23px;">
-            <a href="./index.php" style="font-size: 23px;color:#f5a425 "><em style="color:#f5a425">Jyoti</em>
-                <pm style="color:#fff; font-weight: 700; ">Institute</pm>
+            <a href="./index.php" style="font-size: 23px;color:#f5a425 ; font-weight: 700; ">JYOTI
+                <pm style="color:#fff; font-weight: 700; ">INSTITUTE</pm>
             </a>
         </div>
         <a href="#menu" class="menu-link"><i class="fa fa-bars"></i></a>
